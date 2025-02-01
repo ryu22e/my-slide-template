@@ -1,4 +1,4 @@
-budoux==0.6.3
+budoux==0.6.4
 beautifulsoup4==4.12.3
 myst-parser==4.0.0
 Sphinx==8.1.3
